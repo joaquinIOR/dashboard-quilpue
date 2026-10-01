@@ -50,4 +50,6 @@ python manage.py runserver
 
 ## Equipo
 
+-Simon Jofre — @XxsimonxX12
+
 <!-- Cada integrante se agrega aquí mediante su propio PR -->
