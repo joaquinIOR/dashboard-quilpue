@@ -51,5 +51,6 @@ python manage.py runserver
 ## Equipo
 
 -Simon Jofre — @XxsimonxX12
+-Jose Vargas - @josemarcelovg
 
 <!-- Cada integrante se agrega aquí mediante su propio PR -->
